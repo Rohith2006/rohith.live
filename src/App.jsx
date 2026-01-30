@@ -138,7 +138,7 @@ function App() {
               className="w-36 sm:w-48 h-36 sm:h-48 rounded-2xl overflow-hidden border-2 border-indigo-500/50 shadow-2xl bg-gradient-to-br from-gray-900 to-black"
             >
               <img 
-                src="/profile.png" 
+                src="/profile.jpeg" 
                 alt="Rohith" 
                 className="w-full h-full object-cover"
               />
